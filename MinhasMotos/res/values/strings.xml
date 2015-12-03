@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minhas Motos</string>
+    <string name="action_about">Sobre</string>
+    <string name="title_fazer">Fazer 250</string>
+    <string name="title_dragstar">Dragstar 650</string>
+    <string name="title_ninja">Ninja 250</string>
+    <string name="description_fazer">Potência: 21 cv a 8.000 rpm / Torque máximo: 2,1 kgf.m a 6.500 rpm</string>
+    <string name="description_dragstar">Potência: 40 cv a 6.500 rpm / Torque máximo: 5,19 kgf.m a 3.000 rpm</string>
+    <string name="description_ninja">Potência: 33 cv a 11.000 rpm / Torque máximo: 2,24 kgf.m a 8.200 rpm</string>
+    <string name="title_sobre">Paulo Lemos</string>
+    <string name="button_detail">Detalhes</string>
+    <string name="button_fabricante">Site do Fabricante</string>
+    <string name="button_facebook">Facebook</string>
+    <string name="button_email">E-mail</string>
+    <string name="description_sobre">Paulo de Gouveia Lemos é aluno da Escola Superior Candido Mendes, e cursa Análise e Desenvolvimento de Sistemas com conclusão prevista para 2016.1. Esse aplicativo foi desenvolvido como forma de avaliação pelo professor Bruno Penha, na disciplina Desenvolvimento Mobile, em meu 4º período. Obrigado professor, pela oportunidade em aprender uma nova forma de programar!</string>
+    <string name="description_material">Material Utilizado: Eclipse ADT + SDK; Draw9Patch; Resizer 1.4.2; Moto X 2014 (para testes).</string>
+
+</resources>
